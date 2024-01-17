@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vedanti
-- 👀 I have knowledge od C++, DSA and OOP
+- 👋 Hi, I’m Vedanti. I also go by the name Vallanchler or Val for short :)
+- 👀 I have knowledge of C++, DSA and OOP
 - 🌱 Right now, I'm learning Web Development
 
 <!---
