@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vallanchler
-- 👀 I’m interested in learning, unlearning & relearning
-- 🌱 I’m currently learning Python, C++
+- 👋 Hi, I’m Vedanti
+- 👀 I have knowledge od C++, DSA and OOP
+- 🌱 Right now, I'm learning Web Development
 
 <!---
 vallanchler/vallanchler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
